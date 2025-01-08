@@ -1,10 +1,21 @@
-#what type of PR is this?
+## 관련 이슈
 
--[] New features
--[x] bug Fix
--[] Suggest
--[] ETC(please write somethings..)
+Closes #이슈번호
 
-#Description
+## 변경 사항
 
-#Other
+- 기능 추가/수정/삭제
+- 버그 수정
+- 문서 업데이트 등
+
+## 확인 사항
+
+- [ ] 코드 스타일이 일관된지 확인했습니다.
+- [ ] 모든 테스트가 성공적으로 실행되었습니다.
+- [ ] 관련 문서가 업데이트되었습니다.
+
+## 스크린샷
+
+
+## 추가 설명
+
